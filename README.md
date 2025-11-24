@@ -2,4 +2,4 @@
 
 ## 📁 Download Model File
 You can download the trained model from Google Drive:  
-👉 [Download model]([https://your-google-drive-link-here](https://drive.google.com/file/d/1V_CI_feWCgZEwAcPTjYCZ6ZXqNUw8Npk/view?usp=drive_link))
+👉 [Download model](https://drive.google.com/drive/folders/1J3TZC2Ju29Xr3pbFKr5pdoPa2GfS5M9v))
